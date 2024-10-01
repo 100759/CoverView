@@ -27,17 +27,17 @@ const Home = () => {
                     <h1 className="font-semibold md:text-xl text-lg font-Inter">Coverview</h1>
                 </div>
 
-                <a href="https://github.com/rutikwankhade/CoverView" target="_blank" rel="noreferrer" className="hover:translate-x-2 duration-300 bg-gray-700 group rounded-xl md:px-4 text-white md:text-sm text-xs ml-auto mr-4 font-Inter font-semibold p-2">
-                    <span className="text-sm">⭐ Star on Github</span>
+                <a href="https://fuheng.icu" target="_blank" rel="noreferrer" className="hover:translate-x-2 duration-300 bg-gray-700 group rounded-xl md:px-4 text-white md:text-sm text-xs ml-auto mr-4 font-Inter font-semibold p-2">
+                    <span className="text-sm">⭐ 主页</span>
                 </a>
             </div>
 
             <div className="  mx-auto md:px-20 py-6   flex flex-col items-center">
                 <h1 className="md:w-7/12 m-10 text-center md:text-5xl text-3xl font-extrabold text-gray-700 font-Anek">
-                    Creating cover images for your blogs is now super easy
+                现在为你的博客创建封面图片变得超级容易。
                 </h1>
             <Link to="/editor" className="hover:translate-x-2 duration-300 bg-gray-700 hover:bg-gray-800 group rounded-full px-4 md:px-8 text-white md:text-2xl text-lg mx-auto font-Inter font-semibold md:p-4 p-2">
-                    <span className="md:text-2xl text-lg">Open editor &rarr;</span>
+                    <span className="md:text-2xl text-lg">打开编辑器 &rarr;</span>
                 </Link>
             </div>
 
@@ -197,9 +197,9 @@ const Home = () => {
                 </div>
 
                 <div className="md:text-lg text-sm flex flex-wrap  ">
-                    <Link to="/faq" className="m-2 hover:font-semibold">📌 How to use</Link>
-                    <a href="https://github.com/rutikwankhade/CoverView" target="_blank" rel="noreferrer" className="m-2 hover:font-semibold">⭐ Star on Github</a>
-                    <a href="https://www.buymeacoffee.com/rutikwankhade" target="_blank" rel="noreferrer" className="m-2 hover:font-semibold">🥤 Buy me a coffee</a>
+                    <Link to="/faq" className="m-2 hover:font-semibold">1234</Link>
+                    <a href="https://fuheng.icu" target="_blank" rel="noreferrer" className="m-2 hover:font-semibold">FuHeng</a>
+                    <a href="https://fuheng.icu" target="_blank" rel="noreferrer" className="m-2 hover:font-semibold">🥤我的</a>
                 </div>
             </footer>
 
